@@ -49,9 +49,7 @@ const product_3 = new Product(3,"carne", 5500)
 
 
 //@INFO testeo de la integracion
-export const testShoppingCar = (DO: boolean = false): void => {
-  if (!DO) return
-
+export const testShoppingCar = (): void => {
   const instance = ShoppingCar.getInstance()
 
   //@INFO Agregar 3 productos

@@ -1,5 +1,7 @@
-import { testShoppingCar } from './src/singleton/practice/ShoppingCar';
-import { Singleton } from './src/singleton/Singleton';
+// import { testFactory } from './src/factory/Factory';
+// import { testShoppingCar } from './src/singleton/practice/ShoppingCar';
+// import { Singleton } from './src/singleton/Singleton';
 
-Singleton.getInstance()
-testShoppingCar()
+// Singleton.getInstance()
+// testShoppingCar()
+// testFactory(true)
